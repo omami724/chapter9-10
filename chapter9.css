@@ -72,4 +72,11 @@ footer {
     flex-flow: column;
     margin: 0 auto;
   }
+  
+  .step-box {
+  width: 90%;
+  margin-right: 30px;
+  padding: 10%;
+  position: relative;
+  background-color: #eee;
 }
