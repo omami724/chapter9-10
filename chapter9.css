@@ -79,14 +79,14 @@ header {
 main {
   width: 90% ;
   display: block;
+  text-align : center;
 }
 
 .step-box {
   display: flex;
   flex-flow: column;
   width: 90%;
-  margin-right: 5%;
-  padding: 10px;
+  margin-bottom: 20px ;
   background-color: #eee;
 }
 }
